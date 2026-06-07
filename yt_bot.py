@@ -11,7 +11,7 @@ from telegram.ext import (
 )
 
 # ─── CONFIG ──────────────────────────────────────────────────────────────────
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"          # @BotFather token
+BOT_TOKEN = "8878916592:AAFcjBPudiW51LSYiWOY1qWoIgb83Jc9FsA"          # @BotFather token
 DOWNLOAD_API = "https://api-rebix.vercel.app/api/ytv"
 # ─────────────────────────────────────────────────────────────────────────────
 
