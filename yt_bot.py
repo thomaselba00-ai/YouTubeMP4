@@ -11,7 +11,7 @@ from telegram.ext import (
 )
 
 # ─── CONFIG ──────────────────────────────────────────────────────────────────
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"          # @BotFather token
+BOT_TOKEN = "8878916592:AAFcjBPudiW51LSYiWOY1qWoIgb83Jc9FsA"          # @BotFather token
 DOWNLOAD_API = "https://api-rebix.vercel.app/api/ytv"
 # ─────────────────────────────────────────────────────────────────────────────
 
@@ -67,7 +67,7 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
         "1. Copy a YouTube video link\n"
         "2. Paste it here and send\n"
         "3. Tap the *Download* button!\n\n"
-        "That's it — no commands needed.",
+        "That's it — By Hacker-Xyherion",
         parse_mode="Markdown",
     )
 
